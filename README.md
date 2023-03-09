@@ -1,6 +1,10 @@
-# kale-hoth-2023
+# Kale: Your UCLA Sustainability and Health companion.
 
-Kale: Your UCLA Sustainability and Health companion
+ Submission for Hack on the Hill X by ACM at UCLA. 
+
+Kale is a mobile app that recommends daily food options on the UCLA campus according to the student’s personal health and sustainability preferences. The app builds a smart UCLA-curated diet model that makes meal choosing speedy and hassle-free using an AI-powered algorithm. Users can select their food preferences and get personalized recommendations.
+
+This app is built on Figma, Flutter, PHP, and MySQL server
 
 # How to run the application
 
